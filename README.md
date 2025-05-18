@@ -1,1 +1,1 @@
-# Foody
+# SnapEats
